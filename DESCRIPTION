@@ -1,0 +1,10 @@
+Package: computationgraph
+Type: Package
+Title: Computation Graphs in R
+Version: 0.1.0
+Author: Gradon Nicholls
+Maintainer: Gradon Nicholls <gradon.nicholls@gmail.com>
+Description: Implements computation graphs in R using R6 objects.
+License: MIT License
+Encoding: UTF-8
+LazyData: true
